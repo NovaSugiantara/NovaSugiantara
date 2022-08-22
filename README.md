@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning MERN STACK
 - 📫 How to reach me :
-  1. 📧 -> Novasugiantara325@gmail.com
+  1. 📧 -> Novasugiantara4@gmail.com
   2. 📱 -> +62 881-7570-533
   3. Instagram : @novasugiantara_
 
