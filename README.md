@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Backend Developer
 
 - 🔭 I Currently works at [Baliola](https://github.com/baliola)
-- ⚡ Passionate about Rust and Blockchain in General!
+- ⚡ Passionate about Ruby On Rails and Golang in General!
 
 
 ## Github Stats
