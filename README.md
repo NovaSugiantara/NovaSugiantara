@@ -5,7 +5,9 @@
 
 
 ## Github Stats
-<img alt="Nova Sugiantara github stats" src="https://github-readme-stats.vercel.app/api?username=NovaSugiantara&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true"></img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaSugiantara&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Languages
 <img alt="Nova Sugiantara languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true"></img>
