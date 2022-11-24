@@ -7,10 +7,8 @@
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaSugiantara&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Languages
-<img alt="Nova Sugiantara languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true"></img>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @NovaSugiantara
 - 👀 I’m interested in Web Programming
