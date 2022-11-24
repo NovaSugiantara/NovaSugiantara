@@ -10,6 +10,9 @@
 ## My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
 
+## Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @NovaSugiantara
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning MERN STACK
