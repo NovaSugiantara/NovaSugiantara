@@ -1,31 +1,31 @@
-### Hi there 👋 I'm a Backend Developer
+# 💫 About Me:
+- 👋 Hi, I’m @NovaSugiantara.<br>
+- 👨‍💻 I'm currently working on [Baliola](https://github.com/baliola).<br>
+- 🎯 I'm currently learning Golang.<br>
+- 🤔 Interested about Blockchain and Golang.
 
-- 🔭 I Currently works at [Baliola](https://github.com/baliola)
-- ⚡ Passionate about Ruby On Rails and Golang in General!
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gede Nova Sugiantara) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/novasugiantara_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nova-sugiantara-91914b15a) 
 
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NovaSugiantara&show_icons=true&theme=synthwave)
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NovaSugiantara&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NovaSugiantara&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## My Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaSugiantara)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NovaSugiantara&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-- 👋 Hi, I’m @NovaSugiantara
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning MERN STACK
-- 📫 How to reach me :
-  1. 📧 -> Novasugiantara4@gmail.com
-  2. 📱 -> +62 881-7570-533
-  3. Instagram : @novasugiantara_
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=36465D&logoColor=AAA&style=flat-square&link=)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=ruby&color=36465D&logoColor=AAA&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
+---
+[![](https://visitcount.itsvg.in/api?id=NovaSugiantara&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-NovaSugiantara/NovaSugiantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/novasugiantara) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
