@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @NovaSugiantara.<br>
-- 👨‍💻 I'm currently working on [Baliola](https://github.com/baliola).<br>
+- 👨‍💻 I'm currently working on [Omni Hotelier](https://omnihotelier.com/).<br>
 - 🎯 I'm currently learning Golang.<br>
 - 🤔 Interested about Blockchain and Web3.
 
